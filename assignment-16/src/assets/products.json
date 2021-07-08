@@ -1,0 +1,7 @@
+[
+    {"productId":101, "productName":"sofa","productPrice":20000,"productDes":"Leather Sofa ","productImg":"assets/chocolate.jpg"},
+    {"productId":102, "productName":"curtains","productPrice":30000,"productDes":"Blockout Curtains ","productImg":"assets/curtains.jpg"},
+    {"productId":103, "productName":"chocolate","productPrice":15000,"productDes":"Hersheys Drak chocolate","productImg":"assets/chocolate.jpg"}
+    
+
+]
